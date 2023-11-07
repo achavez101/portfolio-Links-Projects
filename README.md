@@ -1,6 +1,6 @@
 # portfolio-Links-Projects
 ## Portfolio
-<a href="https://amairanychavezcoho.wixsite.com/portfolio" target="blank">Showcase my work</a>
+<a href="https://amairanychavezcoho.wixsite.com/portfolio" target="_blank">Showcase my work</a>
 ##Bootstrap Email Template
 
 ##Login-UI Project
