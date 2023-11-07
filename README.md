@@ -1,5 +1,6 @@
 # portfolio-Links-Projects
 ## Portfolio
+![Portfolio Logo](./Portfolio.png)
 ### [Showcase my work](https://amairanychavezcoho.wixsite.com/portfolio) 
 ## Bootstrap Project
 ### [Email Template](https://achavez101.github.io/bootstrap-email-chavez/)
